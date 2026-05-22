@@ -1,4 +1,4 @@
-# Market Research AI agent main
+# Market Research & Business Insights Platform 
 
 
 # Project Report
